@@ -3,7 +3,7 @@
 This competition was hosted on 18th and 19th July 2020.   
 
 ## Team Members
-https://github.com/ishitashah23
+https://github.com/ishitashah23 and 
 https://github.com/shrey-B
 
 # Problem Statement 
