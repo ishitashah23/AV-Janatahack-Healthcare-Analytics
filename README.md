@@ -40,10 +40,10 @@ The evaluation metric for this hackathon is ROC-AUC Score.
 The public leaderboard is based on 50% of test data, while final rank would be decided on remaining 50% of test data (which is private leaderboard)
 
 ## Final Results
-Public leaderboard score - 0.808603
+Public leaderboard score - 0.808603 </br>
 Private leaderboard score - 0.72649
 
 ## Winning results 
-Public leaderboard score - 0.84816
+Public leaderboard score - 0.84816 </br>
 Private leaderboard score - 0.78533
 
